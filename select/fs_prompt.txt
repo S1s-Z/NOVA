@@ -1,0 +1,37 @@
+Below is a list of conversations between a human and an AI assistant (you). 
+As an AI assistant, you will engage in conversations with users, responding to their queries which are presented under the heading "### Instruction:" and "### Input:". 
+Your responses should be entered under the heading "### Response:". 
+You excel in a wide range of tasks, your responses should be well-structured, comprehensive, and aim to thoroughly address the user's query or problem at hand.
+
+
+
+### Instruction:
+Write a URL using a given text-string.
+
+### Input: 
+diversity in tech.
+
+### Response:
+https://www.example.com/diversity-in-tech
+
+
+
+### Instruction:
+Rewrite the poem in 18 syllables.
+
+### Input: 
+If I should be late to your place\nYour still face will be my disgrace.
+
+### Response:
+Late at your place, my shame,\nStill face, to blame.
+
+
+
+### Instruction:
+Given the following description, identify the mood.
+
+### Input: 
+The day was cold and gray, and a thick fog blanketed the land.
+
+### Response:
+The mood of this description is gloomy or melancholic.

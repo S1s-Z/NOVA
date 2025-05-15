@@ -1,0 +1,6 @@
+sentence_transformers
+pysqlite3
+openai
+rank_bm25
+spacy
+pydantic==1.10.10
