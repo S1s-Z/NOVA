@@ -74,12 +74,12 @@ Here is the full list of models we released:
 
 | Model                                    | HF Checkpoint                                                         | Description                                                  |
 | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **NOVA-LLaMA-3-8B-Alpaca-5percent**      | [🤗](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-Alpaca-5percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 5% data from Alpaca. |
-| **NOVA-LLaMA-3-8B-Alpaca-10percent**     | [🤗](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-Alpaca-10percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 10% data from Alpaca. |
-| **NOVA-LLaMA-3-8B-Alpaca-15percent**     | [🤗](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-Alpaca-15percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 15% data from Alpaca. |
-| **NOVA-LLaMA-3-8B-AlpacaGPT4-5percent**  | [🤗](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-AlpacaGPT4-5percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 5% data from AlpacaGPT4. |
-| **NOVA-LLaMA-3-8B-AlpacaGPT4-10percent** | [🤗](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-AlpacaGPT4-10percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 10% data from AlpacaGPT4. |
-| **NOVA-LLaMA-3-8B-AlpacaGPT4-15percent** | [🤗](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-AlpacaGPT4-15percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 15% data from AlpacaGPT4. |
+| **NOVA-LLaMA-3-8B-Alpaca-5percent**      | [🤗 Link](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-Alpaca-5percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 5% data from Alpaca. |
+| **NOVA-LLaMA-3-8B-Alpaca-10percent**     | [🤗 Link](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-Alpaca-10percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 10% data from Alpaca. |
+| **NOVA-LLaMA-3-8B-Alpaca-15percent**     | [🤗 Link](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-Alpaca-15percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 15% data from Alpaca. |
+| **NOVA-LLaMA-3-8B-AlpacaGPT4-5percent**  | [🤗 Link](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-AlpacaGPT4-5percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 5% data from AlpacaGPT4. |
+| **NOVA-LLaMA-3-8B-AlpacaGPT4-10percent** | [🤗 Link](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-AlpacaGPT4-10percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 10% data from AlpacaGPT4. |
+| **NOVA-LLaMA-3-8B-AlpacaGPT4-15percent** | [🤗 Link](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-AlpacaGPT4-15percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 15% data from AlpacaGPT4. |
 
 ## ✍🏻 Citation
 
