@@ -84,11 +84,33 @@ Here is the full list of models we released:
 ## ✍🏻 Citation
 
 ```bibtex
-@article{si2025aligning,
-  title={Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering},
-  author={Si, Shuzheng and Zhao, Haozhe and Chen, Gang and Gao, Cheng and Bai, Yuzhuo and Wang, Zhitong and An, Kaikai and Luo, Kangyang and Qian, Chen and Qi, Fanchao and others},
-  journal={arXiv preprint arXiv:2502.07340},
-  year={2025}
+@inproceedings{si-etal-2025-aligning,
+    title = "Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering",
+    author = "Si, Shuzheng  and
+      Zhao, Haozhe  and
+      Chen, Gang  and
+      Gao, Cheng  and
+      Bai, Yuzhuo  and
+      Wang, Zhitong  and
+      An, Kaikai  and
+      Luo, Kangyang  and
+      Qian, Chen  and
+      Qi, Fanchao  and
+      Chang, Baobao  and
+      Sun, Maosong",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.804/",
+    pages = "16469--16488",
+    ISBN = "979-8-89176-251-0",
+    abstract = "Training LLMs on data containing unfamiliar knowledge during the instruction tuning stage can encourage hallucinations. To address this challenge, we introduce NOVA, a novel framework designed to identify high-quality data that aligns well with the LLM{'}s learned knowledge to reduce hallucinations. NOVA includes Internal Consistency Probing (ICP) and Semantic Equivalence Identification (SEI) to measure how familiar the LLM is with instruction data. Specifically, ICP evaluates the LLM{'}s understanding of the given instruction by calculating the tailored consistency among multiple self-generated responses. SEI further assesses the familiarity of the LLM with the target response by comparing it to the generated responses, using the proposed semantic clustering and well-designed voting strategy. Finally, to ensure the quality of selected samples, we introduce an expert-aligned reward model, considering characteristics beyond just familiarity. By considering data quality and avoiding unfamiliar data, we can utilize the selected data to effectively align LLMs to follow instructions and hallucinate less. Experiments show that NOVA significantly reduces hallucinations while maintaining a competitive ability to follow instructions."
 }
 ```
 
