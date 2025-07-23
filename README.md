@@ -82,7 +82,7 @@ Here is the full list of models we released:
 | **NOVA-LLaMA-3-8B-AlpacaGPT4-15percent** | [🤗 Link](https://huggingface.co/ssz1111/NOVA-LLaMA-3-8B-AlpacaGPT4-15percent) | Chat model, based on LLaMA3-Base-8B, trained on selected 15% data from AlpacaGPT4. |
 
 ## ✍🏻 Citation
-
+```bibtex
 @inproceedings{si-etal-2025-aligning,
     title = "Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering",
     author = "Si, Shuzheng and Zhao, Haozhe and Chen, Gang and Gao, Cheng and Bai, Yuzhuo and Wang, Zhitong and An, Kaikai and Luo, Kangyang and Qian, Chen and Qi, Fanchao and Chang, Baobao and Sun, Maosong",
@@ -97,7 +97,7 @@ Here is the full list of models we released:
     ISBN = "979-8-89176-251-0",
     abstract = "Training LLMs on data containing unfamiliar knowledge during the instruction tuning stage can encourage hallucinations. To address this challenge, we introduce NOVA, a novel framework designed to identify high-quality data that aligns well with the LLM{'}s learned knowledge to reduce hallucinations. NOVA includes Internal Consistency Probing (ICP) and Semantic Equivalence Identification (SEI) to measure how familiar the LLM is with instruction data. Specifically, ICP evaluates the LLM{'}s understanding of the given instruction by calculating the tailored consistency among multiple self-generated responses. SEI further assesses the familiarity of the LLM with the target response by comparing it to the generated responses, using the proposed semantic clustering and well-designed voting strategy. Finally, to ensure the quality of selected samples, we introduce an expert-aligned reward model, considering characteristics beyond just familiarity. By considering data quality and avoiding unfamiliar data, we can utilize the selected data to effectively align LLMs to follow instructions and hallucinate less. Experiments show that NOVA significantly reduces hallucinations while maintaining a competitive ability to follow instructions."
 }
-
+```
 
 
 
